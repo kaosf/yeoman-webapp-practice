@@ -18,3 +18,7 @@ mkdir <appname>
 cd <appname>
 yo webapp
 ```
+
+## References
+
+* [Yeoman - Modern workflows for modern webapps](http://yeoman.io/)
