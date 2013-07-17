@@ -4,13 +4,13 @@ For getting started, refer [this repository](https://github.com/kaosf/yeoman-pra
 
 ```sh
 # run at only the first time
-npm install -g yo@1.0.0-rc.1
+npm install -g yo@1.0.0-rc.1.1
 echo "source 'https://rubygems.org'" > Gemfile
 echo "gem 'compass', '0.12.2'" >> Gemfile
 bundle install
 # rbenv rehash # if you're using rbenv
 npm install -g grunt-cli@0.1.9
-npm install -g bower@0.9.2
+npm install -g bower@0.10.0
 ```
 
 ```sh
