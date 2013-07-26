@@ -10,7 +10,7 @@ echo "gem 'compass', '0.12.2'" >> Gemfile
 bundle install
 # rbenv rehash # if you're using rbenv
 npm install -g grunt-cli@0.1.9
-npm install -g bower@0.10.0
+npm install -g bower@1.0.0
 ```
 
 ```sh
